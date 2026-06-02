@@ -1,0 +1,6 @@
+{
+  "name": "AI Hub",
+  "description": "A comprehensive web implementation of the AI Hub mobile architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

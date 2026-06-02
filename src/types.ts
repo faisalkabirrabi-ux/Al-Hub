@@ -1,0 +1,17 @@
+export type ViewState = 
+  | 'home' 
+  | 'chat' 
+  | 'search' 
+  | 'writer' 
+  | 'image' 
+  | 'video' 
+  | 'voice' 
+  | 'translate' 
+  | 'pdf' 
+  | 'coding' 
+  | 'subscriptions' 
+  | 'wallet' 
+  | 'notifications' 
+  | 'profile' 
+  | 'settings' 
+  | 'admin';
